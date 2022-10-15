@@ -1,0 +1,15 @@
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/bin/Debug/net6.0/001HelloConsole
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/bin/Debug/net6.0/001HelloConsole.deps.json
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/bin/Debug/net6.0/001HelloConsole.runtimeconfig.json
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/bin/Debug/net6.0/001HelloConsole.dll
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/bin/Debug/net6.0/001HelloConsole.pdb
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.csproj.AssemblyReference.cache
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.AssemblyInfoInputs.cache
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.AssemblyInfo.cs
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.csproj.CoreCompileInputs.cache
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.dll
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/refint/001HelloConsole.dll
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.pdb
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/001HelloConsole.genruntimeconfig.cache
+/home/mort/GB Study Projects/CSharpExamples/Examples/001HelloConsole/obj/Debug/net6.0/ref/001HelloConsole.dll
